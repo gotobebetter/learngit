@@ -1,5 +1,3 @@
 this is a LICENSE text.
 this is a change from dev.
 this is a change from dev.
-second change from dev.
-second change from dev.
