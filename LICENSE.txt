@@ -1,11 +1,7 @@
 this is a LICENSE text.
 this is a change from dev.
-<<<<<<< Updated upstream
-this is a change from dev.
-=======
 this is a change from dev.
 second change from dev.
 second change from dev.
 third change from dev.
 third change from dev.
->>>>>>> Stashed changes
