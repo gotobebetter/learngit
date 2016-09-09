@@ -8,4 +8,3 @@ merge is complex in git.
 it's 7 sep.
 it's 19:04
 it's 19:11
-it's 17:36
